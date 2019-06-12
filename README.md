@@ -1,1 +1,1 @@
-# ssrl-rpi-camera
+# ssrl-streamrecorder
